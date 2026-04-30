@@ -12,7 +12,7 @@ App pessoal de gerenciamento de treinos — 100% client-side, sem backend, sem c
 
 ## 📱 Demo
 
-> **[Augusto-dev0.github.io/sistema-treino](https://augusto-dev0.github.io/meus_treinos)** ← atualize com seu link
+> **[Augusto-dev0.github.io/sistema-treino](https://augusto-dev0.github.io/meus-treinos/)** ← atualize com seu link
 
 ---
 
