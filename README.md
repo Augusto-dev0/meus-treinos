@@ -2,17 +2,21 @@
 
 App pessoal de gerenciamento de treinos — 100% client-side, sem backend, sem cadastro. Hospedado no GitHub Pages e instalável como PWA no celular.
 
+<div align="center">
+
 ![Status](https://img.shields.io/badge/status-ativo-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white)
 
+</div>
+
 ---
 
 ## 📱 Demo
 
-> **[Augusto-dev0.github.io/sistema-treino](https://augusto-dev0.github.io/meus-treinos/)** ← atualize com seu link
+> **[Augusto-dev0.github.io/sistema-treino](https://augusto-dev0.github.io/meus-treinos/)** 
 
 ---
 
@@ -80,12 +84,12 @@ meus-treinos/
 
 1. Faça um fork ou clone deste repositório
 2. Vá em **Settings → Pages → Source: main / root**
-3. Acesse `https://augusto-dev0.github.io/sistema_treino`
+3. Acesse `https://augusto-dev0.github.io/meus-treinos`
 
 ### Opção 2 — Local
 
 ```bash
-git clone https://github.com/Augusto-dev0/sistema-treinos.git
+git clone https://github.com/Augusto-dev0/meus-treinos.git
 cd meus-treinos
 # Abra index.html no browser — nenhuma dependência necessária
 ```
@@ -141,4 +145,9 @@ Todos os dados ficam no `localStorage` do browser — nenhum dado é enviado a s
 
 ## 📄 Licença
 
-MIT — use, modifique e distribua à vontade.
+![License: Proprietary](https://img.shields.io/badge/licen%C3%A7a-Propriet%C3%A1ria-red)
+
+Licença proprietária — todos os direitos reservados ao autor.
+Nenhuma permissão é concedida para uso, cópia, modificação ou distribuição deste conteúdo sem autorização prévia e por escrito.
+
+Consulte o arquivo [`LICENSE`](./LICENSE) para os termos completos.
