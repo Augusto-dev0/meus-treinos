@@ -1,6 +1,6 @@
 # ⚡ Meus Treinos
 
-App pessoal de gerenciamento de treinos — 100% client-side, sem backend, sem cadastro. Hospedado no GitHub Pages e instalável como PWA no celular.
+App pessoal de gerenciamento de treinos  100% client-side, sem backend, sem cadastro. Hospedado no GitHub Pages e instalável como PWA no celular.
 
 <div align="center">
 
@@ -39,7 +39,7 @@ App pessoal de gerenciamento de treinos — 100% client-side, sem backend, sem c
 - Contador de **sequência de dias** consecutivos 🔥
 
 ### 📋 Biblioteca
-- 100% personalizada pelo usuário — começa vazia
+- 100% personalizada pelo usuário · começa vazia
 - Cadastre nome, grupo muscular, emoji, séries, cor e dica para cada exercício
 - **Busca** por nome ou grupo muscular
 - Filtro por grupo muscular
@@ -80,7 +80,7 @@ meus-treinos/
 
 ## 🚀 Como usar
 
-### Opção 1 — GitHub Pages (recomendado)
+### Opção 1 - GitHub Pages (recomendado)
 
 1. Faça um fork ou clone deste repositório
 2. Vá em **Settings → Pages → Source: main / root**
@@ -91,7 +91,7 @@ meus-treinos/
 ```bash
 git clone https://github.com/Augusto-dev0/meus-treinos.git
 cd meus-treinos
-# Abra index.html no browser — nenhuma dependência necessária
+# Abra index.html no browser · nenhuma dependência necessária
 ```
 
 > ⚠️ O Service Worker (modo offline) exige HTTPS ou `localhost`. Para testar localmente com PWA completa, use uma extensão como **Live Server** no VS Code.
